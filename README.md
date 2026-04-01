@@ -13,11 +13,13 @@
 *Note: The majority of my B2B contracting and SaaS architecture is maintained in highly secure, private repositories. My public GitHub serves as a directory for deployed infrastructure.*
 
 <br>
+
 <br>
 ### Contribution Architecture
 <div align="left">
   <img src="https://raw.githubusercontent.com/Jansyler/Jansyler/main/github-metrics.svg" alt="3D Contribution Road" width="100%">
 </div>
+
 ### Technology Stack
 <div align="left">
   <a href="https://skillicons.dev">
