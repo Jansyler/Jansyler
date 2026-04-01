@@ -14,13 +14,10 @@
 
 <br>
 <br>
-
 ### Contribution Architecture
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Jansyler/Jansyler/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Grid" width="100%">
+  <img src="https://raw.githubusercontent.com/Jansyler/Jansyler/main/github-metrics.svg" alt="3D Contribution Road" width="100%">
 </div>
-
-<br>
 ### Technology Stack
 <div align="left">
   <a href="https://skillicons.dev">
