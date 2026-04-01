@@ -8,17 +8,26 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Current Focus</h3>
+      <h3>
+        <img src="https://img.icons8.com/ios-glyphs/24/00F3FF/radar.png" align="center" /> 
+        Current Focus
+      </h3>
       <b>Founder @ RigRadarAI</b><br>
       Building an autonomous hardware deal-scraping engine. Handling DOM parsing daemons and full-cycle unit economics (Stripe B2C & Amazon/eBay B2B affiliates).
       <br><br>
-      <h3>⚡ Tech Arsenal</h3>
+      <h3>
+        <img src="https://img.icons8.com/ios-glyphs/24/00F3FF/code.png" align="center" /> 
+        Tech Arsenal
+      </h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,python,java,php,react,tailwind,nodejs,linux,docker,git,wordpress,figma&theme=dark&perline=6" alt="Tech Stack" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Analytics</h3>
+      <h3>
+        <img src="https://img.icons8.com/ios-glyphs/24/00F3FF/bar-chart.png" align="center" /> 
+        Analytics
+      </h3>
       <i>*Proprietary B2B architecture is maintained in secure private repositories.*</i><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Jansyler&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=00F3FF&icon_color=00F3FF&show_icons=true" alt="GitHub Stats" />
     </td>
@@ -27,13 +36,12 @@
 
 <br>
 
-<h3 align="center">📈 Contribution Activity</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-glyphs/24/00F3FF/3d-model.png" align="center" /> 
+  Contribution Architecture
+</h3>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jansyler/Jansyler/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jansyler/Jansyler/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jansyler/Jansyler/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%" />
 </div>
 
 <br>
