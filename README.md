@@ -1,29 +1,44 @@
-# Jan Hubal
+<div align="center">
+  <h1>Jan Hubal</h1>
+  <h3>Founder & Software Architect</h3>
+  <p>Building autonomous systems, scraping engines, and enterprise B2B solutions.</p>
+</div>
 
-**Founder & Software Architect**
+<br>
 
-Building autonomous systems, scraping engines, and enterprise B2B solutions.
+<div align="center">
+  <a href="https://rigradarai.com">
+    <img src="./rigradar-banner.png" alt="RigRadarAI Architecture" width="100%" style="border-radius: 12px;" />
+  </a>
+</div>
 
----
+<br>
 
 ### Current Focus: RigRadarAI
-Architecting an autonomous hardware deal-scraping engine. Handling DOM parsing daemons and full-cycle unit economics (Stripe B2C subscriptions & Amazon/eBay B2B affiliates). 
+**Autonomous Hardware Deal-Scraping Engine**
+Architecting a high-performance scraping engine that bypasses standard rate limits to find global hardware deals. Built with full-cycle unit economics: Stripe API for B2C subscriptions and automated Amazon/eBay affiliate pipelines for B2B monetization.
 
-*Note: All proprietary B2B architecture and client work is maintained in secure, private repositories.*
+<br>
 
 ### Tech Arsenal
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,python,java,php,react,tailwind,nodejs,linux,docker,git,wordpress,figma&theme=dark" alt="Tech Stack" />
-</a>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,php,react,tailwind,nodejs,linux,docker,git,wordpress,figma&theme=dark&perline=12" alt="Tech Stack" />
+  </a>
+</div>
 
-### Contribution Architecture
-<img src="https://raw.githubusercontent.com/Jansyler/Jansyler/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" width="100%">
+<br>
 
----
+### Enterprise Architecture
+> *The majority of my B2B contracting and SaaS architecture (including RigRadarAI and Sylenar) is maintained in highly secure, private repositories. My public GitHub serves as a directory for my deployed infrastructure.*
 
-<a href="mailto:sylerjan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Start_Conversation-00F3FF?style=for-the-badge&logo=gmail&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Email" />
-</a>
-<a href="https://your-portfolio-link.tech">
-  <img src="https://img.shields.io/badge/Portfolio-View_Architecture-00F3FF?style=for-the-badge&logo=vercel&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Portfolio" />
-</a>
+<br>
+
+<div align="center">
+  <a href="mailto:sylerjan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Start_Conversation-00F3FF?style=for-the-badge&logo=gmail&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Email" />
+  </a>
+  <a href="https://your-portfolio-link.tech">
+    <img src="https://img.shields.io/badge/Portfolio-View_Full_CV-00F3FF?style=for-the-badge&logo=vercel&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Portfolio" />
+  </a>
+</div>
