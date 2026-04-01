@@ -1,4 +1,4 @@
-name: Generate Metrics Dashboard
+name: Generate 3D Calendar
 
 on:
   schedule:
@@ -19,25 +19,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Jansyler
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          # THIS IS THE MAGIC LINE: It turns off all the broken 0-stats
+          base: "" 
           config_timezone: Europe/Prague
-          
-          # Visuals matching your aesthetic
           config_theme: tokyonight
           
-          # 1. The Isometric Calendar (The 3D grid from the screenshot)
+          # We ONLY keep the 3D Calendar plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # 2. Coding Habits (The bar charts showing when you code)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # 3. Languages (The colored bar at the bottom)
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
