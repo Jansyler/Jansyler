@@ -22,12 +22,10 @@
 </div>
 
 <br><br>
+<hr style="border: 1px solid #1a1a2e;">
+<br>
 
 <div align="center">
-  <a href="mailto:sylerjan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Start_Conversation-00F3FF?style=for-the-badge&logo=gmail&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-link.tech">
-    <img src="https://img.shields.io/badge/Portfolio-View_Full_CV-00F3FF?style=for-the-badge&logo=vercel&logoColor=black&color=0d0d14&labelColor=00F3FF" alt="Portfolio" />
-  </a>
+  <a href="https://your-portfolio-link.tech" style="color: #00F3FF; text-decoration: none;"><strong>VIEW FULL PORTFOLIO</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:sylerjan@gmail.com" style="color: #00F3FF; text-decoration: none;"><strong>START A CONVERSATION</strong></a>
 </div>
