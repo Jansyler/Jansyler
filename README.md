@@ -50,21 +50,6 @@ I am a full-stack engineer and entrepreneur specializing in distributed real-tim
 
 <br />
 
-## ✦ CONTRACTING & INDUSTRY EXPERIENCE
-
-### 💻 NetMate CZ spol. s.r.o. — Multi-Stack Software Engineer
-*Apr 2023 – May 2026 (Part-time / Client Projects)*
-* Led development across **Java, Python, PHP, and JavaScript** for diverse client automation platforms, reducing manual data processing overhead significantly.
-* Deployed complex web portals using a hybrid WordPress/Elementor + custom PHP/JS stack.
-* Utilized **Wireshark** for deep packet inspection and network troubleshooting in complex distributed client environments.
-
-### 📊 Oresi s.r.o. — Full-Stack Developer & Systems Analyst
-*May 2024 – Dec 2024*
-* Solved complex, high-impact latency issues using **Wireshark** packet analysis within enterprise network infrastructure.
-* Implemented UX heatmap analysis to optimize conversion flows, directly boosting signups on high-traffic landing pages.
-
-<br />
-
 ## ✦ CORE SKILL MATRIX
 
 A cohesive, high-performance tech stack selected for speed, scalability, and absolute reliability.
@@ -118,23 +103,6 @@ A cohesive, high-performance tech stack selected for speed, scalability, and abs
   &nbsp;
   <img src="https://img.shields.io/badge/Figma-CCCCCC?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
 </p>
-
-<br />
-
-## ✦ EDUCATION, CERTIFICATIONS & LANGUAGES
-
-### 🎓 Education
-* **B.Sc. in Computer Science** — Unicorn University *(2025 – Present)*
-* **Computer Science & Graphic Design** — High School of Management and Graphic Design *(2021 – 2025)*
-
-### 📜 Certifications
-* **Advanced AI Implementation & Practical AI Applications**
-* **Computer Systems & Network Infrastructure Specialist**
-* **FCE English** — Score: 168
-
-### 🗣️ Languages
-* **Czech**: Native
-* **English**: Full Professional Proficiency (Technical & Business)
 
 <br />
 
