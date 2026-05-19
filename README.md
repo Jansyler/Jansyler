@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=2500&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&lines=Jan+Hubal;Software+Architect;Founder+%40+RigRadarAI;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Jan+Hubal;Software+Architect;Founder+%40+RigRadarAI;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Architecting autonomous systems, scraping engines, and enterprise B2B solutions.</h3>
@@ -31,6 +31,6 @@
 <br>
 
 <div align="center">
-  <a href="https://your-portfolio-link.tech" style="color: #00F3FF; text-decoration: none;"><strong>VIEW FULL PORTFOLIO</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="https://hubal.tech" style="color: #00F3FF; text-decoration: none;"><strong>VIEW FULL PORTFOLIO</strong></a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="mailto:sylerjan@gmail.com" style="color: #00F3FF; text-decoration: none;"><strong>START A CONVERSATION</strong></a>
 </div>
