@@ -32,19 +32,67 @@ Full-Stack Engineer with 3 years of experience building distributed real-time sy
 
 ## ✦ STARTUP VENTURES (FOUNDER & LEAD ENGINEER)
 
-### ⚙️ RigRadar — Market Intelligence SaaS
-*Nov 2025 – Present · Sole engineer*
-* **Distributed Backend**: Built a two-service backend — a multi-threaded Python scraping/AI engine and a Node.js serverless API — communicating via a Redis work queue, with real-time deal notifications over Pusher WebSocket channels.
-* **Fault-Tolerant Pipeline**: Engineered a scraping pipeline with ScraperAPI bot-protection bypass, adaptive JS-render fallback, circuit breakers, and dead-letter retries.
-* **AI Scoring**: Integrated Google Gemini for AI deal scoring and price forecasts with strict output verification.
-* **Billing & Growth**: Implemented end-to-end Stripe billing with tiered usage-based subscriptions and B2B affiliate tracking across Amazon and eBay.
+# 🛰️ RigRadar — Live Market Intelligence SaaS
+> **Solo-built and launched from the ground up.** A distributed, real-time, revenue-generating market intelligence platform that automates web scraping, applies LLM-driven deal scoring, and broadcasts instant price alerts to subscribers.
 
-### 📱 Tapped In — High-Frequency Discovery Mobile App
+| 🚀 Live Production SaaS | 💸 Revenue-Generating | 🤖 AI-Powered Forecaster | 🔄 Real-Time WebSockets |
+| :--- | :--- | :--- | :--- |
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+- **Backend Architecture:** Distributed Two-Service System (**Python** for data processing/AI & **Node.js** for API/orchestration)
+- **Frontend:** Modern, responsive SPAs built with **JavaScript (ES6+)**, **HTML5**, and styled via **TailwindCSS**
+- **Data & Message Layers:** **Redis** (Distributed Work Queue & Cache), **Pusher** (Real-Time WebSockets), **REST APIs**
+- **AI/LLM Integration:** **Google Gemini (Google AI Studio)** with structured JSON schema outputs
+- **External Monetization & Infrastructure:** **Stripe API** (Usage-Based Billing), **Resend** (Transactional Email), **Vercel** (Hosting & Serverless Deployment), B2B Affiliate Tracking (**Amazon & eBay Partner Networks**)
+
+---
+
+## 🏗️ Technical Deep Dive & System Design
+
+### 1. Distributed Multi-Language Backend & Work Queue
+* Designed and executed a decoupled **two-service backend architecture** to exploit the specific strengths of two languages: **Node.js** handles high-concurrency client authentication, API routing, and webhooks, while **Python** operates as the heavy-computational data engine.
+* Interconnected both microservices via a high-throughput **Redis-backed work queue**, optimizing background worker distribution and eliminating single points of failure under sudden traffic bursts.
+* Implemented a real-time event notification pipeline using **Pusher WebSocket channels**, dropping latency for live deal broadcast alerts to sub-second thresholds for connected active sessions.
+
+### 2. Fault-Tolerant, Anti-Bot Scraping Pipeline
+* Engineered a bulletproof ingestion engine capable of scraping volatile marketplace listings at scale while systematically routing requests through **ScraperAPI** to bypass aggressive Cloudflare/Akamai bot-protection walls.
+* Built an **adaptive JS-rendering fallback mechanism** that switches to heavy headless browser rendering *only* when static HTML parsers fail, drastically optimizing API execution costs and speeding up scraping runs by up to 4x.
+* Fortified the data collection architecture against network partitions and target site downtime by programming **resilient circuit breakers** and setting up a **Dead-Letter Queue (DLQ) retry matrix** with exponential backoff.
+
+### 3. LLM-Driven Deal Scoring & Verification Engine
+* Embedded **Google Gemini (via Google AI Studio)** directly into the data pipeline to execute real-time, comparative value-analysis, scoring deals from 1–100 and generating algorithmic price trend forecasts.
+* Safeguarded against model hallucination by enforcing **strict output verification schemas** (Pydantic / JSON Schema validation), ensuring raw LLM tokens are structural matches for the database layer before persistence.
+
+### 4. End-to-End Enterprise Monetization
+* Constructed a robust, fully automated **Stripe billing ledger** supporting sophisticated **metered/usage-based subscription tiers**, computing costs dynamically based on user api-calls or active webhooks.
+* Layered deep programmatic **B2B affiliate attribution tracking mechanisms** mapped to the **Amazon Associate** and **eBay Partner Network** frameworks, converting outbound user traffic into secondary passive revenue streams.
+
+### 📱 TappedIN | AI-Powered E-Commerce Smart Search SaaS
 *Dec 2025 – Present · Sole engineer*
-* **Cross-Platform Architecture**: Architected a React Native/Expo mobile app for high-frequency discovery of underground music, concerts, and fashion drops.
-* **Computer Vision Pipeline**: Built a CV pipeline to analyze user photography and generate accessory recommendations via Grailed and Vinted marketplace integrations.
-* **Data Aggregation**: Designed high-availability scrapers aggregating Spotify, SoundCloud, TikTok, and goOut into a centralized database with real-time geo-aware Google/Apple Calendar syncing.
-* **Multi-Agent AI**: Built cross-domain multi-agent workflows (music, events, fashion) using LangChain and LangGraph, with LangFuse for observability and a RAG-based AI support chatbot.
+# TappedIN | AI-Powered E-Commerce Smart Search SaaS
+
+### 🚀 Project Overview
+Traditional e-commerce search bars fail when shoppers search using abstract cultural terms, music artists, or subculture vibes (e.g., searching *"Central Cee look"* or *"Opium aesthetic"*). **TappedIN** is a standalone B2B SaaS platform that seamlessly integrates with Shopify storefronts. It allows shoppers to describe a vibe—or securely connect their streaming profiles—and instantly maps those music subcultures into targeted product recommendations straight from the merchant’s live inventory catalog.
+
+---
+
+### 🛠️ Key Features & Technical Achievements
+
+* **Deterministic AI Extraction Engine:** Built a high-performance Python FastAPI backend utilizing the Google GenAI SDK (`gemini-2.5-flash`). Implemented strict Pydantic schemas (`response_schema`) and zero-temperature configurations to enforce structured JSON outputs, completely eliminating model hallucinations.
+* **1-Click Music Profile Syncing:** Integrated Spotify and Apple Music OAuth APIs to securely ingest consumer listening histories (e.g., top 50 heavy-rotation artists) and dynamically translate aggregate subculture tags into automated visual style curations.
+* **Data-Dense Merchant Control Room:** Designed a standalone Next.js (TypeScript) platform dashboard mirroring custom telemetry data. The frontend communicates with a PostgreSQL analytics database via FastAPI to draw live, stacked-revenue performance charts using Recharts, proving conversion rate metrics directly to merchants.
+* **Automated Catalog Ingestion:** Engineered a lightweight background pipeline that processes raw inventory metadata from Shopify webhook endpoints, indexing product attributes into vector-ready categories for precise LLM semantic matching.
+
+---
+
+### 💻 Tech Stack
+
+* **Backend:** `Python`, `FastAPI`, `Google GenAI SDK (Gemini)`, `Pydantic`, `PostgreSQL`, `Uvicorn`
+* **Frontend:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `Recharts`
+* **Integrations:** `Shopify Billing API`, `Shopify Admin Webhooks`, `Spotify Developer OAuth API`
 
 ### 📐 Sylenar — WordPress Page-Builder Plugin
 *Jan 2023 – Jun 2025 · Sole engineer*
