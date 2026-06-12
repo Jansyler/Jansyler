@@ -33,14 +33,14 @@ Full-Stack Engineer with 3 years of experience building distributed real-time sy
 ## ✦ STARTUP VENTURES (FOUNDER & LEAD ENGINEER)
 
 ### ⚙️ RigRadar — Market Intelligence SaaS
-*Feb 2026 – Present · Sole engineer*
+*Nov 2025 – Present · Sole engineer*
 * **Distributed Backend**: Built a two-service backend — a multi-threaded Python scraping/AI engine and a Node.js serverless API — communicating via a Redis work queue, with real-time deal notifications over Pusher WebSocket channels.
 * **Fault-Tolerant Pipeline**: Engineered a scraping pipeline with ScraperAPI bot-protection bypass, adaptive JS-render fallback, circuit breakers, and dead-letter retries.
 * **AI Scoring**: Integrated Google Gemini for AI deal scoring and price forecasts with strict output verification.
 * **Billing & Growth**: Implemented end-to-end Stripe billing with tiered usage-based subscriptions and B2B affiliate tracking across Amazon and eBay.
 
 ### 📱 Tapped In — High-Frequency Discovery Mobile App
-*May 2026 – Present · Sole engineer*
+*Dec 2025 – Present · Sole engineer*
 * **Cross-Platform Architecture**: Architected a React Native/Expo mobile app for high-frequency discovery of underground music, concerts, and fashion drops.
 * **Computer Vision Pipeline**: Built a CV pipeline to analyze user photography and generate accessory recommendations via Grailed and Vinted marketplace integrations.
 * **Data Aggregation**: Designed high-availability scrapers aggregating Spotify, SoundCloud, TikTok, and goOut into a centralized database with real-time geo-aware Google/Apple Calendar syncing.
