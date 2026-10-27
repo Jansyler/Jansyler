@@ -104,6 +104,10 @@ Traditional e-commerce search bars fail when shoppers search using abstract cult
 
 ## ✦ PROFESSIONAL EXPERIENCE
 
+### Artificial Intelligence Engineer — MIBCON a.s.
+*Aug 2026 – present*
+* Currently developing several internal and external projects for various customers.
+
 ### Multi-Stack Software Engineer — NetMate CZ spol. s.r.o.
 *Apr 2023 – May 2026*
 * Led development across Java, Python, PHP, and JavaScript for diverse client projects; built automation scripts that reduced manual data-processing overhead.
