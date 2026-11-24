@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=38&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=JAN+HUBAL;FOUNDER+%26+FULL--STACK+ENGINEER;REAL--TIME+SYSTEMS+%C2%B7+AI+%C2%B7+MOBILE;BUILDING+SCALABLE+INFRASTRUCTURE" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Full-Stack Engineer building distributed real-time systems, AI-powered mobile apps, and SaaS products.</strong>
+    <strong>Full-Stack Engineer building distributed real-time systems, AI-powered apps, and SaaS products.</strong>
   </p>
 
   <p align="center">
